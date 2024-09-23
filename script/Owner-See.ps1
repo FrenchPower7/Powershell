@@ -1,5 +1,5 @@
 # Définir le chemin du répertoire contenant les fichiers txt
-$directoryPath = "C:\Users\frenc\OneDrive\Documents\Paradox Interactive\Hearts of Iron IV\mod\FrenchMod\history\states2"
+$directoryPath = "SetThePath"
 
 # Récupérer tous les fichiers txt dans le répertoire
 $files = Get-ChildItem -Path $directoryPath -Filter *.txt
