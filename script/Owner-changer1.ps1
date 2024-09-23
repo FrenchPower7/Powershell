@@ -1,6 +1,6 @@
 # Définir les chemins des répertoires source et destination
-$sourceDirectory = "C:\Users\frenc\Desktop\script\test1"
-$destinationDirectory = "C:\Users\frenc\Desktop\script\test2"
+$sourceDirectory = "SetThePath"
+$destinationDirectory = "SetThePath"
 
 # Créer le répertoire de destination s'il n'existe pas
 if (-Not (Test-Path -Path $destinationDirectory)) {
