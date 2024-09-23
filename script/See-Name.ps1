@@ -1,5 +1,5 @@
 # Définir le chemin du répertoire
-$repertoire = "D:/Program Files (x86)/Steam/steamapps/common/Hearts of Iron IV/history/countries"
+$repertoire = "SetThePath"
 
 function AfficherMenu {
     Write-Host "---------------------------------"
