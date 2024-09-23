@@ -1,6 +1,6 @@
 # Définir les chemins des répertoires source et destination
-$sourceDirectory = "C:\Users\frenc\OneDrive\Documents\Paradox Interactive\Hearts of Iron IV\mod\FrenchMod\history\states2"
-$destinationDirectory = "C:\Users\frenc\Desktop\script\test2"
+$sourceDirectory = "SetThePath"
+$destinationDirectory = "SetThePath"
 # Liste des IDs pour lesquels nous voulons changer les propriétaires
 $targetIDs = @(737,674,872,520)
 $newtag = " "
